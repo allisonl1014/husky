@@ -1,0 +1,30 @@
+/* All CSS styles go here */
+#blue {
+	width: 300px;
+	height: 300px;
+	border-radius: 300px;
+	background: blue;
+	position: absolute;
+	top: 250px;
+	left: 550px;
+}
+
+#husky{
+	width: 532px;
+	height: 532px;
+	border-radius: 300px;
+	background: url(../images/husky-04.svg);
+	position: absolute;
+	top: 161px;
+	left: 434px;
+	display: none;
+
+}
+p {
+	font-family: Arial;
+	font-size: 3em;
+	top: 380px;
+	left: 565px;
+	position: absolute;
+	color: white;
+}
